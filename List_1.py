@@ -1,0 +1,4 @@
+#Program that goes through a list
+friends = ['Joseph', 'Glenn', 'Sally']
+for friend in friends :
+    print('Happy New Year:', friend)
